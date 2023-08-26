@@ -1,0 +1,8 @@
+prefix=/home/anirudha/pub_sub_cpp_ws/devel
+
+Name: willow
+Description: Description of willow
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
