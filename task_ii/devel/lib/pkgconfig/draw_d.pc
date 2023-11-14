@@ -1,8 +1,0 @@
-prefix=/home/anirudha/task_ii/devel
-
-Name: draw_d
-Description: Description of draw_d
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

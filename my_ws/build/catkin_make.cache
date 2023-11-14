@@ -1,2 +1,0 @@
-robo_a
--DCATKIN_DEVEL_PREFIX=/home/anirudha/my_ws/devel -DCMAKE_INSTALL_PREFIX=/home/anirudha/my_ws/install -G Unix Makefiles

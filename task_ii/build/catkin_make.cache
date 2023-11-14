@@ -1,2 +1,0 @@
-draw_d
--DCATKIN_DEVEL_PREFIX=/home/anirudha/task_ii/devel -DCMAKE_INSTALL_PREFIX=/home/anirudha/task_ii/install -G Unix Makefiles

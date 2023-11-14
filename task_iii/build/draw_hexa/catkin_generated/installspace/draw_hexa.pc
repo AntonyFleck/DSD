@@ -1,8 +1,0 @@
-prefix=/home/anirudha/task_iii/install
-
-Name: draw_hexa
-Description: Description of draw_hexa
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

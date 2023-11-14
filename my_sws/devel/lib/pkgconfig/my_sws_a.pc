@@ -1,8 +1,0 @@
-prefix=/home/anirudha/my_sws/devel
-
-Name: my_sws_a
-Description: Description of my_sws_a
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
